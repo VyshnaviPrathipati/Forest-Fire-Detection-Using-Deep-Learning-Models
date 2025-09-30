@@ -1,6 +1,7 @@
 **Project Overview**
 This repository implements an automated Forest Fire Detection pipeline using computer vision and deep learning. The goal is to detect fire and smoke from images (or short videos/frames) captured by surveillance cameras, drones, or satellites and raise alerts for early intervention.
 The project contains data preprocessing, model training (from-scratch CNN and transfer learning options), evaluation scripts, and inference utilities for deploying the model in a real-time system.
+
 **Key Features**
 
 Binary classification: fire/smoke vs no-fire (configurable for multi-class)
